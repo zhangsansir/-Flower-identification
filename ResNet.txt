@@ -1,0 +1,362 @@
+Epoch 0/44
+----------
+Time elapsed 2m 36s
+train Loss: 2.7859 Acc: 0.8106
+Time elapsed 2m 50s
+valid Loss: 7.4538 Acc: 0.6724
+Optimizer learning rate : 0.0010000
+
+Epoch 1/44
+----------
+Time elapsed 5m 46s
+train Loss: 2.6812 Acc: 0.8053
+Time elapsed 6m 0s
+valid Loss: 7.8107 Acc: 0.6773
+Optimizer learning rate : 0.0010000
+
+Epoch 2/44
+----------
+Time elapsed 8m 48s
+train Loss: 2.5995 Acc: 0.8083
+Time elapsed 9m 2s
+valid Loss: 7.3566 Acc: 0.6748
+Optimizer learning rate : 0.0010000
+
+Epoch 3/44
+----------
+Time elapsed 11m 48s
+train Loss: 2.4766 Acc: 0.8202
+Time elapsed 12m 2s
+valid Loss: 8.1693 Acc: 0.6736
+Optimizer learning rate : 0.0010000
+
+Epoch 4/44
+----------
+Time elapsed 14m 50s
+train Loss: 2.4793 Acc: 0.8170
+Time elapsed 15m 4s
+valid Loss: 7.7897 Acc: 0.6650
+Optimizer learning rate : 0.0010000
+
+Epoch 5/44
+----------
+Time elapsed 17m 48s
+train Loss: 2.4627 Acc: 0.8146
+Time elapsed 18m 2s
+valid Loss: 8.0403 Acc: 0.6418
+Optimizer learning rate : 0.0010000
+
+Epoch 6/44
+----------
+Time elapsed 20m 46s
+train Loss: 2.2949 Acc: 0.8202
+Time elapsed 20m 60s
+valid Loss: 5.9737 Acc: 0.7335
+Optimizer learning rate : 0.0100000
+
+Epoch 7/44
+----------
+Time elapsed 23m 43s
+train Loss: 9.4567 Acc: 0.6363
+Time elapsed 23m 57s
+valid Loss: 12.6782 Acc: 0.6210
+Optimizer learning rate : 0.0010000
+
+Epoch 8/44
+----------
+Time elapsed 26m 40s
+train Loss: 3.3585 Acc: 0.7961
+Time elapsed 26m 53s
+valid Loss: 11.9227 Acc: 0.6467
+Optimizer learning rate : 0.0010000
+
+Epoch 9/44
+----------
+Time elapsed 29m 35s
+train Loss: 2.7374 Acc: 0.8155
+Time elapsed 29m 49s
+valid Loss: 6.5700 Acc: 0.7042
+Optimizer learning rate : 0.0100000
+
+Epoch 10/44
+----------
+Time elapsed 32m 30s
+train Loss: 8.8526 Acc: 0.6541
+Time elapsed 32m 44s
+valid Loss: 17.4096 Acc: 0.5513
+Optimizer learning rate : 0.0001000
+
+Epoch 11/44
+----------
+Time elapsed 35m 31s
+train Loss: 6.0960 Acc: 0.7506
+Time elapsed 35m 45s
+valid Loss: 11.2476 Acc: 0.6345
+Optimizer learning rate : 0.0010000
+
+Epoch 12/44
+----------
+Time elapsed 38m 30s
+train Loss: 3.0355 Acc: 0.8189
+Time elapsed 38m 44s
+valid Loss: 14.8451 Acc: 0.6932
+Optimizer learning rate : 0.0001000
+
+Epoch 13/44
+----------
+Time elapsed 41m 29s
+train Loss: 2.5371 Acc: 0.8358
+Time elapsed 41m 43s
+valid Loss: 12.5561 Acc: 0.6687
+Optimizer learning rate : 0.0010000
+
+Epoch 14/44
+----------
+Time elapsed 44m 29s
+train Loss: 2.7194 Acc: 0.8227
+Time elapsed 44m 43s
+valid Loss: 9.0279 Acc: 0.6919
+Optimizer learning rate : 0.0010000
+
+Epoch 15/44
+----------
+Time elapsed 47m 30s
+train Loss: 2.7770 Acc: 0.8210
+Time elapsed 47m 44s
+valid Loss: 7.5087 Acc: 0.7078
+Optimizer learning rate : 0.0010000
+
+Epoch 16/44
+----------
+Time elapsed 50m 30s
+train Loss: 2.6824 Acc: 0.8225
+Time elapsed 50m 45s
+valid Loss: 7.6793 Acc: 0.7274
+Optimizer learning rate : 0.0010000
+
+Epoch 17/44
+----------
+Time elapsed 53m 32s
+train Loss: 2.7538 Acc: 0.8233
+Time elapsed 53m 46s
+valid Loss: 10.5045 Acc: 0.6883
+Optimizer learning rate : 0.0010000
+
+Epoch 18/44
+----------
+Time elapsed 56m 32s
+train Loss: 2.4528 Acc: 0.8396
+Time elapsed 56m 46s
+valid Loss: 7.0336 Acc: 0.7127
+Optimizer learning rate : 0.0010000
+
+Epoch 19/44
+----------
+Time elapsed 59m 43s
+train Loss: 2.3716 Acc: 0.8389
+Time elapsed 59m 57s
+valid Loss: 9.7576 Acc: 0.6858
+Optimizer learning rate : 0.0010000
+
+Epoch 20/44
+----------
+Time elapsed 62m 42s
+train Loss: 2.5381 Acc: 0.8360
+Time elapsed 62m 56s
+valid Loss: 9.4362 Acc: 0.6980
+Optimizer learning rate : 0.0010000
+
+Epoch 21/44
+----------
+Time elapsed 65m 39s
+train Loss: 2.2361 Acc: 0.8402
+Time elapsed 65m 52s
+valid Loss: 7.4682 Acc: 0.7139
+Optimizer learning rate : 0.0010000
+
+Epoch 22/44
+----------
+Time elapsed 68m 35s
+train Loss: 2.2807 Acc: 0.8379
+Time elapsed 68m 48s
+valid Loss: 7.7399 Acc: 0.6748
+Optimizer learning rate : 0.0010000
+
+Epoch 23/44
+----------
+Time elapsed 71m 30s
+train Loss: 2.1629 Acc: 0.8425
+Time elapsed 71m 44s
+valid Loss: 7.4180 Acc: 0.7042
+Optimizer learning rate : 0.0010000
+
+Epoch 24/44
+----------
+Time elapsed 74m 25s
+train Loss: 2.2161 Acc: 0.8366
+Time elapsed 74m 39s
+valid Loss: 5.7433 Acc: 0.7408
+Optimizer learning rate : 0.0100000
+
+Epoch 25/44
+----------
+Time elapsed 77m 21s
+train Loss: 9.2286 Acc: 0.6603
+Time elapsed 77m 35s
+valid Loss: 17.7427 Acc: 0.5281
+Optimizer learning rate : 0.0001000
+
+Epoch 26/44
+----------
+Time elapsed 80m 16s
+train Loss: 5.0821 Acc: 0.7561
+Time elapsed 80m 30s
+valid Loss: 9.8515 Acc: 0.6638
+Optimizer learning rate : 0.0010000
+
+Epoch 27/44
+----------
+Time elapsed 83m 14s
+train Loss: 2.6852 Acc: 0.8326
+Time elapsed 83m 28s
+valid Loss: 9.0743 Acc: 0.6895
+Optimizer learning rate : 0.0010000
+
+Epoch 28/44
+----------
+Time elapsed 86m 13s
+train Loss: 2.6734 Acc: 0.8335
+Time elapsed 86m 27s
+valid Loss: 9.9702 Acc: 0.7042
+Optimizer learning rate : 0.0010000
+
+Epoch 29/44
+----------
+Time elapsed 89m 12s
+train Loss: 2.5608 Acc: 0.8378
+Time elapsed 89m 26s
+valid Loss: 9.5053 Acc: 0.6638
+Optimizer learning rate : 0.0010000
+
+Epoch 30/44
+----------
+Time elapsed 92m 8s
+train Loss: 2.4912 Acc: 0.8410
+Time elapsed 92m 21s
+valid Loss: 7.6966 Acc: 0.7017
+Optimizer learning rate : 0.0010000
+
+Epoch 31/44
+----------
+Time elapsed 95m 2s
+train Loss: 2.2219 Acc: 0.8517
+Time elapsed 95m 16s
+valid Loss: 7.7907 Acc: 0.6907
+Optimizer learning rate : 0.0010000
+
+Epoch 32/44
+----------
+Time elapsed 97m 58s
+train Loss: 2.2764 Acc: 0.8509
+Time elapsed 98m 11s
+valid Loss: 6.7642 Acc: 0.7286
+Optimizer learning rate : 0.0100000
+
+Epoch 33/44
+----------
+Time elapsed 100m 53s
+train Loss: 8.7909 Acc: 0.6721
+Time elapsed 101m 7s
+valid Loss: 17.6776 Acc: 0.5599
+Optimizer learning rate : 0.0001000
+
+Epoch 34/44
+----------
+Time elapsed 103m 49s
+train Loss: 5.5781 Acc: 0.7603
+Time elapsed 104m 3s
+valid Loss: 14.8064 Acc: 0.6161
+Optimizer learning rate : 0.0001000
+
+Epoch 35/44
+----------
+Time elapsed 106m 46s
+train Loss: 3.5935 Acc: 0.8088
+Time elapsed 106m 60s
+valid Loss: 8.7464 Acc: 0.6675
+Optimizer learning rate : 0.0010000
+
+Epoch 36/44
+----------
+Time elapsed 109m 42s
+train Loss: 2.8608 Acc: 0.8376
+Time elapsed 109m 56s
+valid Loss: 9.9129 Acc: 0.6479
+Optimizer learning rate : 0.0010000
+
+Epoch 37/44
+----------
+Time elapsed 112m 38s
+train Loss: 2.8365 Acc: 0.8355
+Time elapsed 112m 52s
+valid Loss: 10.2689 Acc: 0.6430
+Optimizer learning rate : 0.0010000
+
+Epoch 38/44
+----------
+Time elapsed 115m 35s
+train Loss: 2.5624 Acc: 0.8448
+Time elapsed 115m 49s
+valid Loss: 9.4629 Acc: 0.6699
+Optimizer learning rate : 0.0010000
+
+Epoch 39/44
+----------
+Time elapsed 118m 32s
+train Loss: 2.5742 Acc: 0.8376
+Time elapsed 118m 45s
+valid Loss: 9.5559 Acc: 0.6736
+Optimizer learning rate : 0.0010000
+
+Epoch 40/44
+----------
+Time elapsed 121m 47s
+train Loss: 2.3695 Acc: 0.8529
+Time elapsed 122m 1s
+valid Loss: 11.2392 Acc: 0.6785
+Optimizer learning rate : 0.0010000
+
+Epoch 41/44
+----------
+Time elapsed 141m 56s
+train Loss: 2.4942 Acc: 0.8440
+Time elapsed 142m 8s
+valid Loss: 8.1213 Acc: 0.6846
+Optimizer learning rate : 0.0010000
+
+Epoch 42/44
+----------
+Time elapsed 144m 34s
+train Loss: 2.4012 Acc: 0.8495
+Time elapsed 144m 47s
+valid Loss: 10.8389 Acc: 0.6675
+Optimizer learning rate : 0.0010000
+
+Epoch 43/44
+----------
+Time elapsed 147m 16s
+train Loss: 2.4177 Acc: 0.8454
+Time elapsed 147m 29s
+valid Loss: 7.5720 Acc: 0.6956
+Optimizer learning rate : 0.0010000
+
+Epoch 44/44
+----------
+Time elapsed 149m 58s
+train Loss: 2.2967 Acc: 0.8480
+Time elapsed 150m 11s
+valid Loss: 7.0159 Acc: 0.7054
+Optimizer learning rate : 0.0010000
+
+Training complete in 150m 11s
+Best val Acc: 0.740831
